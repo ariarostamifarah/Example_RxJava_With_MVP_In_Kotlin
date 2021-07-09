@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example_RxJava_With_MVP_In_Kotlin</string>
+    <string name="label_priceProducts">Price</string>
+    <string name="error_unavailable_network">Check your network</string>
+
+    <string name="mainActivity_title">Cats</string>
+    <string name="detailsActivity_title">Details</string>
+
+</resources>
